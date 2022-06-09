@@ -26,8 +26,8 @@ var words = ["car", "bike", "bus", "van", "scooter", "truck", "rv"]
 for (var i = 0; i < words.length; i++){
   if (words[i].length  < 4 && words[i].lengh > 2) {
     console.log(words[i]);
-  }
-
+  }else {
+    
 }
 
 
